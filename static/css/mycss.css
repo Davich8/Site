@@ -1,0 +1,62 @@
+body 
+{ 
+
+background-attachment:fixed; 
+background-image:url('http://xn--g1acecr2a.xn--p1ai/_bd/0/32349234.jpg'); 
+background-color:#00FA9A; 
+
+} 
+.z_h1{ 
+	text-align:center; 
+	margin-top:0px; 
+	margin-bottom:1em; 
+	color:lime; 
+	font-family:Arial, Helvetica, Verdana, Sans-Serif; 
+	text-shadow: 5px 5px 5px #FF0000; 
+	font-size:250%; 
+	font-weight:bold; 
+} 
+
+.z_h2 {
+	
+	text-align:left;
+	text-align:center; 
+	margin-top:0px; 
+	margin-bottom:1em; 
+	color:yellow;
+	font-family:Arial, Helvetica, Verdana, Sans-Serif; 
+	text-shadow: 5px 5px 5px #FF0000; 
+	font-size:2em; 
+	font-weight:bold; 
+}
+h3 {
+	font-size:1em; 
+	margin-bottom:0;
+	color:yellow;
+	text-align:left;
+}
+table.menu{ 
+background:pink;/*Цвет фона меню*/ 
+width: 100%;/*Ширина меню*/ 
+border: 1px solid black;/*Рамка вокруг таблицы*/ 
+text-align:center;/*Выравнивание текста по центру*/ 
+}
+
+.menu td{ 
+border:1px solid white;/*Линия между ячейками*/ 
+} 
+.menu a{ 
+display:block;/*Ссылка на всю ячейку*/ 
+padding: 4px; 
+width: 100%; 
+} 
+.menu a:hover{ 
+background: yellow; 
+}
+wh{
+	color: lime;
+}
+ye{	
+	color: yellow;	
+}
+
